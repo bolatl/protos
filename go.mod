@@ -1,4 +1,4 @@
-module protos
+module github.com/bolatl/protos
 
 go 1.25.6
 
